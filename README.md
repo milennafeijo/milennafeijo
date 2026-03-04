@@ -3,10 +3,10 @@
 
 <br>
 
-**Desenvolvedora Front-End:**
+**Desenvolvedora Front-End**
 
-﹒ 26 anos | São Paulo - SP; <br>
-﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__; <br>
+﹒ 26 anos | São Paulo - SP <br>
+﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
 ﹒ Aluna do curso __Dev Quest__ :)
 
 <br>
