@@ -9,6 +9,8 @@
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
 ﹒ Aluna do curso __Dev Quest__ 
 
+🌱 Atualmente estudando __JavaScript__!
+
 <br>
 
 
