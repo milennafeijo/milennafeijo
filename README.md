@@ -25,8 +25,14 @@
   <img align="center" alt="Mi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+
+<br>
+
 </div>
+
+<br>
+
+![Snake animation](https://github.com/milennafeijo/milennafeijo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
