@@ -28,11 +28,13 @@
 
 <br>
 
+![Snake animation](https://github.com/milennafeijo/milennafeijo/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
-<br>
 
-![Snake animation](https://github.com/milennafeijo/milennafeijo/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!--
