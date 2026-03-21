@@ -3,7 +3,7 @@
 
 <br>
 
-**Desenvolvedora front-end em formação!**
+**Desenvolvedora full-stack em formação!**
 
 ﹒ 26 anos | São Paulo - SP <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
