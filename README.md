@@ -1,4 +1,4 @@
-# 👩🏻‍💻  Oi! Eu sou a Milenna Alves!
+# 👩🏻‍💻 Milenna Alves
 
 
 <br>
