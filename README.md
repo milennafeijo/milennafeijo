@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Olá!
 
 
-**Me chamo Milenna e sou desenvolvedora full-stack em formação.**
+**Me chamo Milenna. Sou desenvolvedora full-stack em formação.**
 
 ﹒ 26 anos | São Paulo - SP <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
