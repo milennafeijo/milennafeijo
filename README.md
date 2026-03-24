@@ -3,7 +3,7 @@
 
 **Me chamo Milenna. Sou desenvolvedora full-stack em formação.**
 
-﹒ 26 anos <br>
+﹒ 26 anos, paulista <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
 ﹒ Aluna do curso __Dev Quest__ 
 
