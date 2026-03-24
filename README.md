@@ -1,9 +1,7 @@
 ## 👩🏻‍💻 Olá!
 
 
-<br>
-
-**Desenvolvedora full-stack em formação!**
+**Me chamo Milenna e sou desenvolvedora full-stack em formação.**
 
 ﹒ 26 anos | São Paulo - SP <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
@@ -11,7 +9,7 @@
 
 🌱 Atualmente estudando __JavaScript__!
 
-<br>
+
 
 
 <a href="mailto:milennafeijocanal@gmail.com"><img alt="Gmail" title="Meu e-mail no Gmail" src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,7 +20,7 @@
 
 ##  Linguagens e tecnologias
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Mi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
