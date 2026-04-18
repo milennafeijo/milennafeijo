@@ -1,7 +1,7 @@
-## 👩🏻‍💻 Olá!
+## 👩🏻‍💻 Milenna Feijó 
 
 
-**Me chamo Milenna. Sou desenvolvedora full-stack em formação.**
+**Olá! Sou desenvolvedora full-stack em formação.**
 
 ﹒ 26 anos, paulista <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
@@ -9,38 +9,12 @@
 
 🌱 Atualmente estudando __JavaScript__!
   
-<div align="center">
-  <img align="center" alt="Mi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milennafeijo/milennafeijo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milennafeijo/milennafeijo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/milennafeijo/milennafeijo/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
-
-
-
-<!--
-**milennafeijo/milennafeijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
