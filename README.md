@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Milenna Alves Feijó 
 
 
-**Olá! Sou desenvolvedora full-stack em formação.**
+**Olá! Sou desenvolvedora front-end em formação.**
 
 ﹒ 26 anos, paulista <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
