@@ -5,7 +5,7 @@
 
 ﹒ 26 anos, paulista <br>
 ﹒ Cursando Análise e Desenvolvimento de Sistemas na __Faculdade Impacta__ <br>
-﹒ Aluna do curso __DevQuest__ 
+﹒ Aluna do treinamento Formação Full Stack com IA, __DevQuest__ 
 
 🌱 Atualmente estudando __JavaScript__! <br>
 💌 e-mail profissional: milenna.feijo@yahoo.com.br <br>
