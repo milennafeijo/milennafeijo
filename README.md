@@ -3,7 +3,7 @@
 
 Olá! Sou desenvolvedora web em formação. Atualmente estudando o curso de Análise e Desenvolvimento de Sistemas na Faculdade Impacta e o treinamento do DevQuest com foco em projetos práticos e no desenvolvimento de uma base sólida em lógica de programação.
 
-💌 e-mail profissional: milenna.feijo@yahoo.com.br <br>
+e-mail profissional: milenna.feijo@yahoo.com.br <br>
   
 <p align="center"> 
 
