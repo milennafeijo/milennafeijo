@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Milenna Feijó  
 
 
-Olá! Sou desenvolvedora web em formação, com foco em Front-End. Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta e faço o treinamento da DevQuest, desenvolvendo projetos práticos e fortalecendo minha base em lógica de programação, HTML, CSS, JavaScript e TypeScript.
+Olá! Sou desenvolvedora web em formação, com foco em Front-End. Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta e faço o treinamento da DevQuest, desenvolvendo projetos práticos e fortalecendo minha base em lógica de programação, HTML, CSS, JavaScript, TypeScript e React.
 
 e-mail profissional: milenna.feijo@yahoo.com.br <br>
   
