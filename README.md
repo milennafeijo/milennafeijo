@@ -3,7 +3,7 @@
 
 Sou <a href="https://www.linkedin.com/in/milennafeijo/?skipRedirect=true"> Milenna Feijó </a>, desenvolvedora web em formação, com foco em Front-End. Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta e faço o treinamento da DevQuest, desenvolvendo projetos práticos e fortalecendo minha base em lógica de programação.
 
-e-mail profissional: milenna.feijo@yahoo.com.br <br>
+e-mail profissional: milennafeijodev@gmail.com <br>
   
 <div align="center"> 
 
