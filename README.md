@@ -2,7 +2,7 @@
 
 Me chamo Milenna Alves Feijó e sou desenvolvedora web Full Stack em formação! 
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta, também participo do treinamento DevQuest (Formação Full Stack JS com IA) com foco em projetos práticos focando em aplicações utilizando TypeScript, React e TailwindCSS e na construção de uma base sólida em lógica de programação. 
+Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta, também participo do treinamento DevQuest (Formação Full Stack JS com IA) onde desenvolvo projetos práticos utilizando TypeScript, React e TailwindCSS.
 
 e-mail profissional: milennafeijodev@gmail.com<br>
 
