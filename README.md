@@ -1,4 +1,4 @@
-## Olá! ✨
+## Olá! 
 
 Me chamo Milenna Alves Feijó e sou desenvolvedora web Full Stack em formação! 
 
