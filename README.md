@@ -1,14 +1,24 @@
-## Olá! 
+## Olá! ♡
 
-Me chamo Milenna Alves Feijó e sou desenvolvedora web Full Stack em formação! 
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta, também participo do treinamento DevQuest (Formação Full Stack JS com IA) onde desenvolvo projetos práticos utilizando TypeScript, React e TailwindCSS e pratico exercícios de lógica de programação buscando aprimorar minhas habilidades.
+Me chamo Milenna e sou desenvolvedora web Full Stack em formação!  
 
-e-mail profissional: milennafeijodev@gmail.com<br>
+
+
+Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Impacta, também participo do treinamento DevQuest (Formação Full Stack JS com IA) onde desenvolvo projetos práticos utilizando TypeScript, React e TailwindCSS e pratico exercícios de lógica de programação buscando aprimorar minhas habilidades. ❤️
+<br>
+
+<div align="center"> 
+
+e-mail: milennafeijodev@gmail.com<br>
+linkedin: <a href="https://www.linkedin.com/in/milennafeijo/">@milennafeijo</a> <br>
+portfólio: em construção... <br> 
+
+
 
 <br>
   
-<div align="center"> 
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px">
 
